@@ -1,0 +1,9 @@
+eu-co2-emission-dashboard-r/
+│
+├── app.R                # Shiny dashboard code
+├── analysis.R           # Data analysis & static plots
+├── data/
+│   └── EU_emissions.csv # EDGAR dataset
+├── requirements.R       # Required R packages
+├── README.md            # Project description
+└── .gitignore           # Ignore unnecessary files
